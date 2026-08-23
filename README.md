@@ -27,8 +27,7 @@ IT Professional baseado no Valais, Suíça 🇨🇭
 
 ## GitHub Stats
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-sko&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-sko&layout=compact)
+![André's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Andre-sko&show_icons=true&theme=default)
 
 ## Contacto
 
