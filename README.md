@@ -25,10 +25,6 @@ IT Professional baseado no Valais, Suíça 🇨🇭
 
 **Route Optimizer** — Ferramenta de otimização de rotas de entrega, com backend em Node.js/Express e integração com a Google Maps Distance Matrix API. Implementa heurística nearest-neighbor com melhoria 2-opt, gerando rotas otimizadas e URLs de navegação prontas a usar.
 
-## GitHub Stats
-
-![André's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Andre-sko&show_icons=true&theme=default)
-
 ## Contacto
 
 Aberto a novas oportunidades em TI — suporte técnico, infraestrutura e administração de sistemas.
