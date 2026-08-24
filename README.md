@@ -1,6 +1,6 @@
 # Olá, sou o André 👋
 
-IT Professional baseado no Valais, Suíça 🇨🇭
+IT Operator, Hardware and basic sofware developement, also do data recovery.
 
 ## Stack
 
